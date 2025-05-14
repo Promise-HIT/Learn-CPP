@@ -1,5 +1,5 @@
 //输入一个大于 1 的整数，判断其是不是质数, 时间限制：1秒  空间限制：256M
-
+//使用bool变量可以代替原有的退出循环exit函数
 
 #include <iostream>
 #include <cmath>
